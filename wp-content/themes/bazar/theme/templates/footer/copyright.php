@@ -30,7 +30,7 @@ if( $footer_type == 'centered' || $footer_type == 'big-centered' || $footer_type
     </div>
     <?php do_action( 'yit_after_left_copyright' ) ?>
     <div class="right span6">
-        <?php echo yit_convert_tags( yit_addp( stripslashes( yit_get_option( 'footer-right-text' ) ) ) ) ?>
+       <p>Copyright Tuner Ready <?php echo date("Y"); ?></p>
     </div>
     <?php do_action( 'yit_after_right_copyright' ) ?>
 <?php endif ?>
