@@ -834,4 +834,4 @@ if( !function_exists( 'yit_tab_sidebars_sidebars_manager_shop_sidebar' ) ) {
         
         return $fields;
     }             
-}                  
+}

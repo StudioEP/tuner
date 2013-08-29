@@ -319,7 +319,7 @@ body {
 }
 
 #nav ul li a:hover, #nav ul li:hover a, #nav .current-menu-item > a, #nav .current_page_ancestor > a, #nav .current-menu-ancestor > a, div#nav ul .current_page_item > a {
-    background-color: #12273d;
+    /*background-color: #12273d;*/
 }
 
 #nav ul li li a:hover, #nav ul li li a, #nav li .current-menu-item > a, #nav li .current-menu-ancestor > a, #nav li .current_page_ancestor > a, div#nav ul li .current_page_item > a {

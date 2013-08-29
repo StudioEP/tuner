@@ -13,25 +13,25 @@
                             .hentry-post .post-title > a:hover { font-size: 18px; font-family: 'Oswald', sans-serif; color: #D98104; font-style: normal; font-weight: 400; }
 #copyright { background: #ffffff; background-image: url(''); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
 #footer { background-color: #ffffff; background-image: url(''); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
-.boxed #wrapper { background-color: #ffffff; }
-code, pre, body hr, #copyright .inner, #footer .inner, .gallery img, .gallery img, .content .archive-list ul, .content .archive-list ul li, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img, #searchform input, .portfolio-categories ul li, .portfolio-categories ul li:hover, .recent-comments .avatar img, .content .contact-form li.submit-button input, #portfolio .read-more, #portfolio .more-link, #portfolio .read-more:hover, #portfolio .more-link:hover, .accordion-title, .accordion-item-thumb img, form input[type="text"], form textarea, .testimonial-page, div.section-caption .caption, .line, .last-tweets-widget ul li, .toggle p.tab-index, .toggle .content-tab, .testimonial, .google-map-frame, .section.blog .post, .section.blog h4.other-articles, .section.blog .sticky .thumbnail, .section .portfolio-sticky .work-categories, .testimonial, #searchform input, .blog-big .meta p, .blog-big p.list-tags, .blog-small .image-wrap, .comment-container, .image-square-style #comments img.avatar, #comments .comment-author img, .comment-meta, #respond input, #respond textarea, img.comment-avatar, .portfolio-big-image a.thumb, .portfolio-big-image a.more, .portfolio-big-image a.more:hover, .portfolio-big-image .work-thumbnail a.nozoom, .portfolio-big-image .work-skillsdate, .internal_page_item, .gallery-wrap li h5, .gallery-filters, .portfolio-full-description a.thumb, .portfolio-full-description a.more, .portfolio-full-description a.more:hover, .portfolio-full-description .work-skillsdate, .related_img, #portfolio.columns .overlay_a, .yit-widget-content .widget, .slider.thumbnails .showcase-thumbnail img, .slider.thumbnails .showcase-thumbnail img:hover, .slider.thumbnails .showcase-thumbnail.active img, .recent-post .thumb-img img, .widget_archive ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li a, .widget_nav_menu ul li a:hover, .widget_pages ul li a, .widget_pages ul li a:hover, .widget_categories ul li a, .widget_categories ul li a:hover, #searchform input, .widget_flickrRSS img, .widget_nav_menu ul li a, .widget_pages ul li a, .widget_categories ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li.current_page_item > a, .widget_pages ul li.current_page_item > a, .widget_categories ul li.current_page_item > a, .testimonial-widget div.name-testimonial, .last-tweets-widget ul li, .yit-widget-content .widget, .portfolio-categories ul li, .recent-comments .avatar img, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img, .picture_overlay, #respond textarea:focus, .section-portfolio-classic .work-projects a.img, .border, #header-cart-search .cart-items, #header-cart-search .cart-subtotal, #header-cart-search .widget_shopping_cart .cart_control, #nav .container, .sitemap h3, .woocommerce.archive .sidebar .widget h3, #copyright .borderz { border-color: #e0dfdf; }
-.portfolio-big-image .work-thumbnail .thumb-wrapper:hover, .related_project .related_img:hover, .portfolio-categories ul li:hover, #portfolio .more-link:hover, .portfolio-big-image a.more:hover, #portfolio.columns .overlay_a:hover, .showcase-thumbnail img:hover, .widget_archive ul li a:hover, .widget_nav_menu ul li a:hover, .widget_pages ul li a:hover, .widget_categories ul li a:hover, .picture_overlay:hover, .section-portfolio-classic .work-projects a.img:hover, .section-portfolio-classic .work-projects a.img.active { border-color: #cccccc; }
-.sidebar .cta .border-1, #footer .cta .border-1, div.yit_quick_contact { border-color: #F39501; }
-.sidebar .cta .border-2, #footer .cta .border-2, .yit_quick_contact:before { border-color: #ECD0A3; }
-#topbar, #topbar .last-tweets li { background-color: #ffffff; }
-#header { background-color: #ffffff; background-image: url(''); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
-#nav { background-color: #ffffff; }
-#nav ul.sub-menu, #nav ul.children { background-color: #ffffff; }
-#nav ul li a:hover, #nav ul li:hover a { background-color: #ffffff; }
-#nav .current-menu-item > a, #nav .current-menu-ancestor > a, #nav .current_page_ancestor > a,div#nav ul .current_page_item > a { background-color: #ffffff; }
-#nav .megamenu ul.sub-menu li.menu-item-custom-content p { color: #a6a3a3; }
-#nav .megamenu ul.sub-menu li.menu-item-custom-content span.highlight { color: #5b5959; }
+.boxed #wrapper { background-color: ; }
+code, pre, body hr, #copyright .inner, #footer .inner, .gallery img, .gallery img, .content .archive-list ul, .content .archive-list ul li, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img, #searchform input, .portfolio-categories ul li, .portfolio-categories ul li:hover, .recent-comments .avatar img, .content .contact-form li.submit-button input, #portfolio .read-more, #portfolio .more-link, #portfolio .read-more:hover, #portfolio .more-link:hover, .accordion-title, .accordion-item-thumb img, form input[type="text"], form textarea, .testimonial-page, div.section-caption .caption, .line, .last-tweets-widget ul li, .toggle p.tab-index, .toggle .content-tab, .testimonial, .google-map-frame, .section.blog .post, .section.blog h4.other-articles, .section.blog .sticky .thumbnail, .section .portfolio-sticky .work-categories, .testimonial, #searchform input, .blog-big .meta p, .blog-big p.list-tags, .blog-small .image-wrap, .comment-container, .image-square-style #comments img.avatar, #comments .comment-author img, .comment-meta, #respond input, #respond textarea, img.comment-avatar, .portfolio-big-image a.thumb, .portfolio-big-image a.more, .portfolio-big-image a.more:hover, .portfolio-big-image .work-thumbnail a.nozoom, .portfolio-big-image .work-skillsdate, .internal_page_item, .gallery-wrap li h5, .gallery-filters, .portfolio-full-description a.thumb, .portfolio-full-description a.more, .portfolio-full-description a.more:hover, .portfolio-full-description .work-skillsdate, .related_img, #portfolio.columns .overlay_a, .yit-widget-content .widget, .slider.thumbnails .showcase-thumbnail img, .slider.thumbnails .showcase-thumbnail img:hover, .slider.thumbnails .showcase-thumbnail.active img, .recent-post .thumb-img img, .widget_archive ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li a, .widget_nav_menu ul li a:hover, .widget_pages ul li a, .widget_pages ul li a:hover, .widget_categories ul li a, .widget_categories ul li a:hover, #searchform input, .widget_flickrRSS img, .widget_nav_menu ul li a, .widget_pages ul li a, .widget_categories ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li.current_page_item > a, .widget_pages ul li.current_page_item > a, .widget_categories ul li.current_page_item > a, .testimonial-widget div.name-testimonial, .last-tweets-widget ul li, .yit-widget-content .widget, .portfolio-categories ul li, .recent-comments .avatar img, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img, .picture_overlay, #respond textarea:focus, .section-portfolio-classic .work-projects a.img, .border, #header-cart-search .cart-items, #header-cart-search .cart-subtotal, #header-cart-search .widget_shopping_cart .cart_control, #nav .container, .sitemap h3, .woocommerce.archive .sidebar .widget h3, #copyright .borderz { border-color: ; }
+.portfolio-big-image .work-thumbnail .thumb-wrapper:hover, .related_project .related_img:hover, .portfolio-categories ul li:hover, #portfolio .more-link:hover, .portfolio-big-image a.more:hover, #portfolio.columns .overlay_a:hover, .showcase-thumbnail img:hover, .widget_archive ul li a:hover, .widget_nav_menu ul li a:hover, .widget_pages ul li a:hover, .widget_categories ul li a:hover, .picture_overlay:hover, .section-portfolio-classic .work-projects a.img:hover, .section-portfolio-classic .work-projects a.img.active { border-color: ; }
+.sidebar .cta .border-1, #footer .cta .border-1, div.yit_quick_contact { border-color: ; }
+.sidebar .cta .border-2, #footer .cta .border-2, .yit_quick_contact:before { border-color: ; }
+#topbar, #topbar .last-tweets li { background-color: ; }
+#header { background-color: ; background-image: url(''); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+#nav { background-color: ; }
+#nav ul.sub-menu, #nav ul.children { background-color: ; }
+#nav ul li a:hover, #nav ul li:hover a { background-color: ; }
+#nav .current-menu-item > a, #nav .current-menu-ancestor > a, #nav .current_page_ancestor > a,div#nav ul .current_page_item > a { background-color: ; }
+#nav .megamenu ul.sub-menu li.menu-item-custom-content p { color: ; }
+#nav .megamenu ul.sub-menu li.menu-item-custom-content span.highlight { color: ; }
 .error-404-text p { font-size: 18px; font-family: 'Play', sans-serif; color: #676768; font-style: normal; font-weight: 400; }
 .error-404-text p a { color: #aa620d; }
 .error-404-text p a:hover { color: #d98104; }
 #popupWrap div.popup h3.title { font-size: 20px; font-family: 'Oswald', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
 div.popup, div.popup_message, div.popup_message p, div.popup_message span { font-size: 12px; font-family: 'Play', sans-serif; color: #747373; font-style: normal; font-weight: 400; }
-#portfolios { background: #ffffff url('http://localhost/tuner/wp-content/themes/bazar/images/backgrounds/032.jpg'); font-size: 18px; font-family: 'Abel', sans-serif; color: #000000; font-style: italic; font-weight: 700; }
+#portfolios { background: #ffffff url('http://tuner.dev/wp-content/themes/bazar/images/backgrounds/032.jpg'); font-size: 18px; font-family: 'Abel', sans-serif; color: #000000; font-style: italic; font-weight: 700; }
 div.box.success-box { font-size: 12px; font-family: 'Play', sans-serif; color: #599847; font-style: normal; font-weight: 400; }
 div.box.arrow-box { font-size: 12px; font-family: 'Play', sans-serif; color: #599847; font-style: normal; font-weight: 400; }
 div.box.alert-box { font-size: 12px; font-family: 'Play', sans-serif; color: #CA6B1C; font-style: normal; font-weight: 400; }
@@ -88,29 +88,29 @@ div.icon_list ul li a:hover { color: #d98104; }
 #copyright, #copyright div p, #copyright p, #copyright a, #copyright p a, #copyright div p a { font-size: 12px; font-family: 'Play', sans-serif; color: #999898; font-style: normal; font-weight: 400; }
 #copyright a, #copyright div a, #copyright div p a { color: #282828; }
 #copyright a:hover, #copyright div a:hover, #copyright div p a:hover { color: #e3910f; }
-a, p, li, address, dd, blockquote, td, th, .paragraph-links a, a.text-color, ul.filters li a, .menu-select select, .testimonial-widget li a, .testimonial-widget li p, #search_mini, .newsletter-input input, .newsletter-submit input, .features-tab-container .features-tab-labels li, .features-tab-content, .portfolio-libra .work-projects ul.pagination_nav li a, .widget.text-image { font-size: 14px; font-family: 'Play', sans-serif; color: #747373; font-style: normal; font-weight: 400; }
+a, p, li, address, dd, blockquote, td, th, .paragraph-links a, a.text-color, ul.filters li a, .menu-select select, .testimonial-widget li a, .testimonial-widget li p, #search_mini, .newsletter-input input, .newsletter-submit input, .features-tab-container .features-tab-labels li, .features-tab-content, .portfolio-libra .work-projects ul.pagination_nav li a, .widget.text-image { font-size: 14px; font-family: 'Play', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
 .blog-bazar:first-child .blog-bazar-header .meta a,.blog-bazar .the-content p.meta span a,a, a.text-color:hover, ul.filters li a:hover, ul.filters li a.active { color: #995d08; }
 .blog-bazar:first-child .blog-bazar-header .meta a:hover,.blog-bazar .the-content p.meta span a:hover,a:hover, body .login_register a:hover, #multistep_step1 .step1_login_form form.login_checkout .lost_password:hover, .portfolio-libra .work-projects ul.pagination_nav li a:hover, a:hover .title-highlight { color: #d98104; }
 #page-meta #yit-breadcrumb, #page-meta #yit-breadcrumb a, .breadcrumbs span { font-size: 12px; font-family: 'Play', sans-serif; color: #8d8d8d; font-style: normal; font-weight: 400; }
 #page-meta #yit-breadcrumb a:hover { color: #535353; }
 #page-meta #yit-breadcrumb a.current { color: #363f4a; }
-h1, h1 a { font-size: 22px; font-family: 'Oswald', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
-h2, h2 a { font-size: 20px; font-family: 'Oswald', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
-h3, h3 a { font-size: 17px; font-family: 'Oswald', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
-h4, h4 a { font-size: 16px; font-family: 'Oswald', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
-h5, h5 a { font-size: 15px; font-family: 'Oswald', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
-h6, h6 a { font-size: 14px; font-family: 'Oswald', sans-serif; color: #3e3d3d; font-style: normal; font-weight: 400; }
-.slogan h2 { font-size: 30px; font-family: 'Oswald', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
-.slogan h3 { font-size: 15px; font-family: 'Oswald', sans-serif; color: #666565; font-style: normal; font-weight: 400; }
-.special-font { font-size: 12px; font-family: 'Shadows Into Light', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+h1, h1 a { font-size: 22px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+h2, h2 a { font-size: 20px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+h3, h3 a { font-size: 17px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+h4, h4 a { font-size: 16px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+h5, h5 a { font-size: 15px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+h6, h6 a { font-size: 14px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+.slogan h2 { font-size: 30px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+.slogan h3 { font-size: 15px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+.special-font { font-size: 12px; font-family: 'Shadows Into Light', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
 h1 span.title-highlight, h2 span.title-highlight, h3 span.title-highlight, h4 span.title-highlight, h5 span.title-highlight, h6 span.title-highlight, .box-sections span.title-highlight, .box-sections-border span.title-highlight { color: #cc9833; }
-#header #logo #textual, span.logo { font-size: 48px; font-family: 'Oswald', sans-serif; color: #373737; font-style: normal; font-weight: 700; }
+#header #logo #textual, span.logo { font-size: 48px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 700; }
 #header #logo #textual span { font-size: 48px; font-family: 'Oswald', sans-serif; color: #cc9833; font-style: normal; font-weight: 700; }
-#header #logo #tagline { font-size: 17px; font-family: 'Play', sans-serif; color: #8d8d8d; font-style: normal; font-weight: 400; }
-#topbar, #topbar p, #topbar a, #topbar li { font-size: 14px; font-family: 'Oswald', sans-serif; color: #c5c3c3; font-style: normal; font-weight: 400; }
-#topbar a, #topbar #lang_sel a { color: #c5c3c3; }
+#header #logo #tagline { font-size: 17px; font-family: 'Play', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+#topbar, #topbar p, #topbar a, #topbar li { font-size: 14px; font-family: 'Oswald', sans-serif; color: #D0AD4E; font-style: normal; font-weight: 400; }
+#topbar a, #topbar #lang_sel a { color: #D0AD4E; }
 #topbar a:hover, #topbar #lang_sel a:hover { color: #cc9833; }
-#topbar span.welcome_username { color: #828181; }
+#topbar span.welcome_username { color: #D0AD4E; }
 #header #logo #tagline span { font-size: 17px; font-family: 'Play', sans-serif; color: #cc9833; font-style: normal; font-weight: 400; }
 #nav ul li, #nav ul li a, #nav .megamenu ul.sub-menu li.menu-item-custom-content p { font-size: 18px; font-family: 'Oswald', sans-serif; color: #8d8d8d; font-style: normal; font-weight: 400; }
 #nav ul li a:hover, #nav li:hover >a { color: #cc9833; }
@@ -148,7 +148,7 @@ div.product form.cart .button:hover, #content div.product form.cart .button:hove
 .widget_price_filter .price_slider_wrapper .ui-widget-content { background-color: #DADADA; }
 .widget_price_filter .ui-slider .ui-slider-range, .widget_price_filter .ui-slider .ui-slider-handle { background-color: #CD8906; }
 .widget.widget_layered_nav .sizes li.chosen .size-filter { color: #c38204; border-color: #dec084; }
-ul.products li.product .product-thumbnail .thumbnail-wrapper .added { background-image: url('http://localhost/tuner/wp-content/themes/bazar/woocommerce/images/bullets/added.png'); }
+ul.products li.product .product-thumbnail .thumbnail-wrapper .added { background-image: url('http://tuner.dev/wp-content/themes/bazar/woocommerce/images/bullets/added.png'); }
 #header-cart-search .cart_wrapper ul.cart_list li a { font-size: 14px; font-family: 'Oswald', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
 #header-cart-search .cart_wrapper ul.cart_list li a:hover { color: #995D08; }
 #header-cart-search .cart_wrapper .cart_list li a.remove_item { font-size: 10px; font-family: 'Oswald', sans-serif; color: #373736; font-style: normal; font-weight: 400; }
